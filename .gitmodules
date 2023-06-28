@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "dirmult"]
 	path = dirmult
 	url = https://github.com/cran/dirmult
-	shallow = true
-	registered = true
 [submodule "genogeographer"]
 	path = genogeographer
 	url = https://github.com/cran/genogeographer
-	shallow = true
-	registered = true
