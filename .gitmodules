@@ -5,6 +5,3 @@
 [submodule "dirmult"]
 	path = dirmult
 	url = https://github.com/cran/dirmult
-[submodule "genogeographer"]
-	path = genogeographer
-	url = https://github.com/cran/genogeographer
